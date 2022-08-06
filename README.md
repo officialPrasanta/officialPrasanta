@@ -1,5 +1,5 @@
 ### Hi there 👋 
-<img src="assets/banner.png">
+<img src="assets/frame.png">
 
 <br>
 <p>
