@@ -10,6 +10,10 @@
 
 <br>
 
-<p style="font-family:Open Sans; font-size:14px">I am Prasanta Roy Choudhury, I believe every language has its own beauty, restictions and every developers unstoppable faiths. So off and on I like to try out different "Hats", like to enjoy the beauty of each programming languages. </p>
+<p style="font-family:Open Sans; font-size:14px">I am Prasanta Roy Choudhury. I believe every language has its own beauty, restrictions, and remarkable efforts by each community. So off and on, I like to try out different "Hats" and enjoy the beauty of each programming language.
+<br><br>Currently, I am vested in Flutter Framework and NodeJs for mobile application development. Keep trying new things with Deep Learning.
+<br>
+Hope you will find some helpful content here...
+</p>
 
 
